@@ -1,2 +1,2 @@
 # rez-glfw
-Rez PAckag for GLFW
+Rez Package for GLFW
